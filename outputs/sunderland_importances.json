@@ -1,0 +1,32 @@
+{
+  "Linear Regression": {
+    "income_score": 0.7282186916810931,
+    "employment_score": 0.1340343413262728,
+    "education_score": 0.039291751337697856,
+    "crime_score": 0.024869374442228982,
+    "housing_barriers_score": 0.0034977773106297794,
+    "living_environment_score": 0.0010078857839670551,
+    "pct_population_0_15": 0.05220093699744575,
+    "pct_population_60_plus": 0.01474678256743941
+  },
+  "Random Forest": {
+    "income_score": 0.14972633942435606,
+    "employment_score": 0.5997462517966059,
+    "education_score": 0.09387506838760673,
+    "crime_score": 0.006252335756627247,
+    "housing_barriers_score": 0.002046042790551644,
+    "living_environment_score": -0.0013090626662556782,
+    "pct_population_0_15": 0.005964364610507178,
+    "pct_population_60_plus": 0.0008584753814687874
+  },
+  "XGBoost": {
+    "income_score": 0.22198555020837568,
+    "employment_score": 0.40205906474675335,
+    "education_score": 0.11188586451396958,
+    "crime_score": 0.011680417129841535,
+    "housing_barriers_score": 0.0013846286459456459,
+    "living_environment_score": 0.0023011694669526237,
+    "pct_population_0_15": 0.01750200169765575,
+    "pct_population_60_plus": 0.008606579056199205
+  }
+}

@@ -1,0 +1,10 @@
+,income_score,employment_score,education_score,crime_score,housing_barriers_score,living_environment_score,pct_population_0_15,pct_population_60_plus,health_deprivation_score
+income_score,1.0,0.964,0.952,0.761,0.407,0.052,0.625,-0.561,0.915
+employment_score,0.964,1.0,0.927,0.779,0.388,0.084,0.497,-0.448,0.921
+education_score,0.952,0.927,1.0,0.691,0.393,0.005,0.58,-0.468,0.876
+crime_score,0.761,0.779,0.691,1.0,0.245,0.323,0.348,-0.493,0.774
+housing_barriers_score,0.407,0.388,0.393,0.245,1.0,-0.267,0.328,-0.351,0.398
+living_environment_score,0.052,0.084,0.005,0.323,-0.267,1.0,-0.115,-0.122,0.093
+pct_population_0_15,0.625,0.497,0.58,0.348,0.328,-0.115,1.0,-0.776,0.419
+pct_population_60_plus,-0.561,-0.448,-0.468,-0.493,-0.351,-0.122,-0.776,1.0,-0.451
+health_deprivation_score,0.915,0.921,0.876,0.774,0.398,0.093,0.419,-0.451,1.0
